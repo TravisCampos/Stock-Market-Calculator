@@ -66,9 +66,11 @@ In order to return back to the Start Page, the User must navigate through the fo
 
 
 ## __Downloads__:
+Available at the [GitHub Pages Website](https://traviscampos.github.io/desktop.html)
 
 ### Windows
-
+* StockMarketCalculator-x64.exe
 
 ### macOS
+* StockMarketCalculator-x64.dmg
 
