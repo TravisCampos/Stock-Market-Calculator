@@ -9,7 +9,7 @@ Upon launching the Application, the User will be able to view the Start Page Sto
 
 In order to use the Calculator, the User must input the Ticker Symbol of a specific company listed on a United States Stock Exchange. If the User does not know the Ticker Symbols of any companies, the "US Stock Exhanges" Section will provide the User with Tables containing the Ticker Symbols of major companies. The Tables will also provide the User with the following Data in real-time: Market Cap, P/E Ratio, Div Yield, 52-Week High, and 52-Week Low.  
 </br>
-<img src="Images/Screenshots/FullScreen.png" width="910.66" height="485.33">
+<img src="Images/Screenshots/FullScreen.png" width="850" height="450">
 
 
 
@@ -24,7 +24,7 @@ After inputting the Ticker Symbol of a specific company, the Desktop Application
 The Technical Indicator Chart provides the User with a Graph of the Stock Price over Time. The User can switch between different Periods of Time by clicking the following Buttons: 3 Month, 6 Month, 9 Month, 1 Year, 3 Year, and 5 Year. The default setting for the Technical Analysis Calculator is "1 Year." The Technical Indicator Graph is separated into three separate plots. The Top Plot graphs the RSI of the Stock over time. The Middle Plot graphs the Price of the Stock over time. The Bottom Plot graphs the MACD of the Stock over time.
 </br>
 
-<img src="Images/Screenshots/MSFT.png" width="910.66" height="485.33">
+<img src="Images/Screenshots/MSFT.png" width="850" height="450">
 
 
 
@@ -40,7 +40,7 @@ The Calculator Rating analyzes the Technical Indicators of the Stock Graph in or
 In order to return back to the Start Page, the User must navigate through the following Path: (Menu Bar -> File -> Main Menu). Upon returning to the Start Page, the User can enter the Ticker Symbol of a new Stock in order to view a new Technical Rating in real-time.
 </br>
 
-<img src="Images/Screenshots/GOOGL.png" width="910.66" height="485.33">
+<img src="Images/Screenshots/GOOGL.png" width="850" height="450">
 
 
 
