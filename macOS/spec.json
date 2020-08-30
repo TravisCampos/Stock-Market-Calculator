@@ -1,0 +1,10 @@
+{
+    "title": "Stock Market Calculator",
+    "format": "UDRO",
+    "background": "Stock.svg",
+    "icon-size": 72,
+    "contents": [
+      { "x": 150, "y": 165, "type": "file", "path": "Stock Market Calculator.app" },
+      { "x": 448, "y": 160, "type": "link", "path": "/Applications" }
+    ]
+  }
